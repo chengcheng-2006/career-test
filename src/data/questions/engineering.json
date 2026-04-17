@@ -1,0 +1,12 @@
+[
+  { "id": 1, "text": "我喜欢分析复杂问题并找出解决方案", "dimension": "logic", "reverse": false },
+  { "id": 2, "text": "动手操作比理论思考更让我有成就感", "dimension": "hands_on", "reverse": false },
+  { "id": 3, "text": "我善于发现事物之间的逻辑关系", "dimension": "analysis", "reverse": false },
+  { "id": 4, "text": "我喜欢尝试新方法解决问题", "dimension": "creativity", "reverse": false },
+  { "id": 5, "text": "面对技术难题我会坚持不懈", "dimension": "logic", "reverse": false },
+  { "id": 6, "text": "我更喜欢独自工作而非团队协作", "dimension": "teamwork", "reverse": true },
+  { "id": 7, "text": "我喜欢研究事物的工作原理", "dimension": "analysis", "reverse": false },
+  { "id": 8, "text": "我对细节有很强的注意力", "dimension": "detail", "reverse": false },
+  { "id": 9, "text": "我喜欢设计和构建实物", "dimension": "hands_on", "reverse": false },
+  { "id": 10, "text": "我能长时间专注于一项任务", "dimension": "focus", "reverse": false }
+]

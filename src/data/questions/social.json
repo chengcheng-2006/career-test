@@ -1,0 +1,12 @@
+[
+  { "id": 1, "text": "我善于与人沟通和建立关系", "dimension": "communication", "reverse": false },
+  { "id": 2, "text": "我对社会问题有浓厚兴趣", "dimension": "social_interest", "reverse": false },
+  { "id": 3, "text": "我善于分析和解决人际冲突", "dimension": "negotiation", "reverse": false },
+  { "id": 4, "text": "我喜欢组织和管理团队", "dimension": "leadership", "reverse": false },
+  { "id": 5, "text": "我对经济和商业运作感兴趣", "dimension": "business", "reverse": false },
+  { "id": 6, "text": "我更喜欢独立工作而非与人打交道", "dimension": "teamwork", "reverse": true },
+  { "id": 7, "text": "我善于理解他人的需求和动机", "dimension": "empathy", "reverse": false },
+  { "id": 8, "text": "我喜欢制定计划并推动执行", "dimension": "execution", "reverse": false },
+  { "id": 9, "text": "我对法律和规则有敬畏之心", "dimension": "compliance", "reverse": false },
+  { "id": 10, "text": "我善于说服他人接受我的观点", "dimension": "persuasion", "reverse": false }
+]

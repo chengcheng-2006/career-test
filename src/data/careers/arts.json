@@ -1,0 +1,26 @@
+[
+  {
+    "name": "作家/编辑",
+    "dimensions": { "creativity": 0.9, "expression": 0.9, "language": 0.8, "reflection": 0.7 },
+    "description": "从事文字创作和编辑工作",
+    "jobs": ["小说家", "编辑", "内容策划", "编剧"]
+  },
+  {
+    "name": "教师/教育工作者",
+    "dimensions": { "empathy": 0.8, "expression": 0.8, "culture": 0.7, "openness": 0.7 },
+    "description": "从事教育教学和人才培养工作",
+    "jobs": ["语文教师", "历史教师", "教育顾问"]
+  },
+  {
+    "name": "翻译/语言专家",
+    "dimensions": { "language": 0.9, "culture": 0.8, "detail": 0.8, "expression": 0.7 },
+    "description": "从事跨语言沟通和文化交流工作",
+    "jobs": ["翻译", "同声传译", "语言培训师"]
+  },
+  {
+    "name": "媒体工作者",
+    "dimensions": { "creativity": 0.8, "expression": 0.8, "openness": 0.8, "culture": 0.7 },
+    "description": "从事新闻、出版、新媒体等内容生产",
+    "jobs": ["记者", "新媒体运营", "内容创作者"]
+  }
+]

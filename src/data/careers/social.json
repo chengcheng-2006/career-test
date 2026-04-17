@@ -1,0 +1,26 @@
+[
+  {
+    "name": "商业管理",
+    "dimensions": { "leadership": 0.9, "business": 0.9, "execution": 0.8, "negotiation": 0.7 },
+    "description": "管理企业运营并推动业务发展",
+    "jobs": ["企业管理者", "创业者", "咨询顾问"]
+  },
+  {
+    "name": "人力资源",
+    "dimensions": { "empathy": 0.9, "communication": 0.8, "negotiation": 0.8, "compliance": 0.7 },
+    "description": "管理组织中的人力资源事务",
+    "jobs": ["HR经理", "招聘专员", "培训主管"]
+  },
+  {
+    "name": "法律从业者",
+    "dimensions": { "compliance": 0.9, "logic": 0.8, "persuasion": 0.8, "detail": 0.8 },
+    "description": "从事法律服务和咨询工作",
+    "jobs": ["律师", "法务专员", "合规经理"]
+  },
+  {
+    "name": "市场营销",
+    "dimensions": { "creativity": 0.8, "persuasion": 0.9, "communication": 0.9, "business": 0.7 },
+    "description": "策划和执行市场营销活动",
+    "jobs": ["市场经理", "品牌策划", "销售经理"]
+  }
+]

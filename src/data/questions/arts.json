@@ -1,0 +1,12 @@
+[
+  { "id": 1, "text": "我经常有天马行空的想法", "dimension": "creativity", "reverse": false },
+  { "id": 2, "text": "我喜欢通过文字表达思想", "dimension": "expression", "reverse": false },
+  { "id": 3, "text": "我对历史和文化有浓厚兴趣", "dimension": "culture", "reverse": false },
+  { "id": 4, "text": "我善于理解他人的情感", "dimension": "empathy", "reverse": false },
+  { "id": 5, "text": "我喜欢阅读文学作品", "dimension": "culture", "reverse": false },
+  { "id": 6, "text": "我更关注事物的意义而非实用价值", "dimension": "practical", "reverse": true },
+  { "id": 7, "text": "我喜欢独立思考人生问题", "dimension": "reflection", "reverse": false },
+  { "id": 8, "text": "我对语言学习有天赋", "dimension": "language", "reverse": false },
+  { "id": 9, "text": "我善于用语言说服他人", "dimension": "expression", "reverse": false },
+  { "id": 10, "text": "我喜欢探索不同的观点和思想", "dimension": "openness", "reverse": false }
+]

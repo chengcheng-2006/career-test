@@ -1,0 +1,26 @@
+[
+  {
+    "name": "软件工程师",
+    "dimensions": { "logic": 0.9, "analysis": 0.8, "creativity": 0.7, "hands_on": 0.6 },
+    "description": "设计、开发和维护软件系统",
+    "jobs": ["后端开发", "前端开发", "全栈工程师"]
+  },
+  {
+    "name": "机械工程师",
+    "dimensions": { "hands_on": 0.9, "logic": 0.7, "creativity": 0.7, "detail": 0.8 },
+    "description": "设计和制造机械系统与设备",
+    "jobs": ["结构设计", "产品研发", "自动化工程师"]
+  },
+  {
+    "name": "数据分析师",
+    "dimensions": { "analysis": 0.9, "logic": 0.8, "detail": 0.8, "creativity": 0.5 },
+    "description": "分析数据并提取商业洞察",
+    "jobs": ["商业分析师", "数据科学家", "BI工程师"]
+  },
+  {
+    "name": "产品经理",
+    "dimensions": { "creativity": 0.8, "analysis": 0.7, "teamwork": 0.9, "logic": 0.6 },
+    "description": "定义产品方向并协调团队交付",
+    "jobs": ["产品经理", "项目经理", "需求分析师"]
+  }
+]

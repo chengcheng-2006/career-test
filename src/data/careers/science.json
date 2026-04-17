@@ -1,0 +1,26 @@
+[
+  {
+    "name": "研究员",
+    "dimensions": { "curiosity": 0.9, "analysis": 0.9, "rigor": 0.9, "focus": 0.8 },
+    "description": "在科研机构从事基础研究工作",
+    "jobs": ["高校研究员", "研究所研究员", "博士后"]
+  },
+  {
+    "name": "数据科学家",
+    "dimensions": { "analysis": 0.9, "logic": 0.9, "curiosity": 0.8, "abstraction": 0.7 },
+    "description": "运用统计学和机器学习方法分析数据",
+    "jobs": ["机器学习工程师", "算法工程师", "AI研究员"]
+  },
+  {
+    "name": "数学建模师",
+    "dimensions": { "logic": 0.9, "abstraction": 0.9, "analysis": 0.8, "rigor": 0.8 },
+    "description": "构建数学模型解决实际问题",
+    "jobs": ["量化分析师", "精算师", "运筹学专家"]
+  },
+  {
+    "name": "实验室技术员",
+    "dimensions": { "rigor": 0.8, "practical": 0.8, "detail": 0.9, "focus": 0.7 },
+    "description": "在实验室进行检测和分析工作",
+    "jobs": ["质检员", "化验员", "实验室主管"]
+  }
+]
